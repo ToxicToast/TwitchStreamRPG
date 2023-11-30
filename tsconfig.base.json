@@ -17,6 +17,7 @@
     "paths": {
       "@twitch-rpg/bot": ["libs/bot/src/index.ts"],
       "@twitch-rpg/bot-events": ["libs/bot-events/src/index.ts"],
+      "@twitch-rpg/domain": ["libs/domain/src/index.ts"],
       "@twitch-rpg/shared": ["libs/shared/src/index.ts"]
     }
   },
